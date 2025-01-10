@@ -45,13 +45,13 @@ Before setting up the project, ensure you have the following installed:
 2. Clone the repository by running the following command:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Suhaibahmad19/Cooking-Mania-AI-Recipe-Recommender
    ```
 
 3. Navigate to the project directory:
 
    ```bash
-   cd <repository-name>
+   cd Cooking-Mania-AI-Recipe-Recommender
    ```
 
 ### Setting up the Environment
